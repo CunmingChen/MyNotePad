@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/menu_search"
+        android:title="Search"
+        android:icon="@android:drawable/ic_search_category_default"
+        android:showAsAction="always"
+       />
+
+    <item
+        android:id="@+id/clock"
+        android:title="clocks"
+        android:icon="@drawable/clocks"
+        android:showAsAction="always"
+        />
+    <!--  This is our one standard application action (creating a new note). -->
+    <item android:id="@+id/menu_add"
+        android:icon="@drawable/ic_menu_compose"
+        android:title="@string/menu_add"
+        android:alphabeticShortcut='a'
+        android:showAsAction="always" />
+    <!--  If there is currently data in the clipboard, this adds a PASTE menu item to the menu
+          so that the user can paste in the data.. -->
+    <item
+        android:id="@+id/menu_sort"
+        android:title="menu_sort"
+        android:icon="@android:drawable/ic_menu_sort_by_size"
+        android:showAsAction="always" >
+        <menu>
+            <item
+                android:id="@+id/menu_sort1"
+                android:title="创建时间"/>
+            <item
+                android:id="@+id/menu_sort2"
+                android:title="修改时间"/>
+            <item
+                android:id="@+id/menu_sort3"
+                android:title="颜色排序"/>
+        </menu>
+    </item>
+
+
+    <item android:id="@+id/menu_paste"
+          android:icon="@drawable/ic_menu_compose"
+          android:title="@string/menu_paste"
+          android:alphabeticShortcut='p' />
+</menu>
