@@ -728,9 +728,12 @@ private static final String reg="file:///storage/emulated/0/\\d+.jpg";
 ```
 ### <br/>效果
 ![Alt](https://github.com/CunmingChen/MyNotePad/blob/master/picture/photo_1.png)
-从相册中取图片
+*从相册中取图片
+
 ![Alt](https://github.com/CunmingChen/MyNotePad/blob/master/picture/photo_2.png)
+
 ![Alt](https://github.com/CunmingChen/MyNotePad/blob/master/picture/photo_3.png)
-从相机中取图片
+*从相机中取图片
 ![Alt](https://github.com/CunmingChen/MyNotePad/blob/master/picture/photo_4.png)
+---
 ![Alt](https://github.com/CunmingChen/MyNotePad/blob/master/picture/photo_5.png)
