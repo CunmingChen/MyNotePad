@@ -589,8 +589,10 @@ public class AlarmActivity extends AppCompatActivity {
 
 ```
 ### <br/>效果
-![Alt](https://github.com/CunmingChen/MyNotePad/blob/master/picture/clock_１.png)
+![Alt](https://github.com/CunmingChen/MyNotePad/blob/master/picture/clock_1.png)
+---
 ![Alt](https://github.com/CunmingChen/MyNotePad/blob/master/picture/clock_2.png)
+---
 ![Alt](https://github.com/CunmingChen/MyNotePad/blob/master/picture/clock_3.png)
 
 ## <br/><br/>六.在文本中插入图片
@@ -742,3 +744,5 @@ private static final String reg="file:///storage/emulated/0/\\d+.jpg";
 ![Alt](https://github.com/CunmingChen/MyNotePad/blob/master/picture/photo_4.png)
 ---
 ![Alt](https://github.com/CunmingChen/MyNotePad/blob/master/picture/photo_5.png)
+
+
