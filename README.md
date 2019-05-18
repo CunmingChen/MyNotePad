@@ -212,7 +212,7 @@ public class NoteSearch extends ListActivity  implements SearchView.OnQueryTextL
 ### <br/> 效果
 ![Alt](https://github.com/CunmingChen/MyNotePad/blob/master/picture/search_1.png)
 ![Alt](https://github.com/CunmingChen/MyNotePad/blob/master/picture/search_2.png)
-![Alt](https://github.com/CunmingChen/MyNotePad/blob/master/picture/search_３.png)
+![Alt](https://github.com/CunmingChen/MyNotePad/blob/master/picture/search_3.png)
 ## <br/><br/>三.UI美化（此功能要和跟换背景功能相结合）
 ### 1.先给NotesList换个主题，把黑色换成白色，在AndroidManifest.xml中NotesList的Activity中添加：
 ```javascript
