@@ -501,8 +501,8 @@ public class NoteColor extends Activity {
 ```
 ### <br/> 效果
 ![Alt](https://github.com/CunmingChen/MyNotePad/blob/master/picture/changeBackground_1.png)
-![Alt](https://github.com/CunmingChen/MyNotePad/blob/master/picture/changeBackground_２.png)
-![Alt](https://github.com/CunmingChen/MyNotePad/blob/master/picture/changeBackground_３.png)
+![Alt](https://github.com/CunmingChen/MyNotePad/blob/master/picture/changeBackground_2.png)
+![Alt](https://github.com/CunmingChen/MyNotePad/blob/master/picture/changeBackground_3.png)
 
 ## <br/><br/>五.闹钟提醒
 ###  1.找到菜单的list_options_menu.xml文件，添加一个搜索的item
@@ -586,8 +586,8 @@ public class AlarmActivity extends AppCompatActivity {
 ```
 ### <br/>效果
 ![Alt](https://github.com/CunmingChen/MyNotePad/blob/master/picture/clock_１.png)
-![Alt](https://github.com/CunmingChen/MyNotePad/blob/master/picture/clock_２.png)
-![Alt](https://github.com/CunmingChen/MyNotePad/blob/master/picture/clock_３.png)
+![Alt](https://github.com/CunmingChen/MyNotePad/blob/master/picture/clock_2.png)
+![Alt](https://github.com/CunmingChen/MyNotePad/blob/master/picture/clock_3.png)
 
 ## <br/><br/>六.在文本中插入图片
 ### 1.在NodeEditor.java的optionmenu中添加选项     
