@@ -62,7 +62,7 @@ private static final String[] PROJECTION = new String[] {
 ```
  
 ### <br/>效果
-
+![Alt](https://github.com/CunmingChen/MyNotePad/blob/master/picture/time.png)
 ## <br/><br/>二.查询框
 ### 1.找到菜单的list_options_menu.xml文件，添加一个搜索的item
 ```java
@@ -210,6 +210,9 @@ public class NoteSearch extends ListActivity  implements SearchView.OnQueryTextL
         </activity>
 ```
 ### <br/> 效果
+![Alt](https://github.com/CunmingChen/MyNotePad/blob/master/picture/search_1.png)
+![Alt](https://github.com/CunmingChen/MyNotePad/blob/master/picture/search_2.png)
+![Alt](https://github.com/CunmingChen/MyNotePad/blob/master/picture/search_３.png)
 ## <br/><br/>三.UI美化（此功能要和跟换背景功能相结合）
 ### 1.先给NotesList换个主题，把黑色换成白色，在AndroidManifest.xml中NotesList的Activity中添加：
 ```javascript
@@ -293,6 +296,7 @@ public class MyCursorAdapter extends SimpleCursorAdapter {
 
 ```
 ### <br/> 效果
+![Alt](https://github.com/CunmingChen/MyNotePad/blob/master/picture/UI.png)
 
 
 ## <br/><br/>四.修改背景色
@@ -496,7 +500,9 @@ public class NoteColor extends Activity {
             android:windowSoftInputMode="stateVisible"/>
 ```
 ### <br/> 效果
-
+![Alt](https://github.com/CunmingChen/MyNotePad/blob/master/picture/changeBackground_1.png)
+![Alt](https://github.com/CunmingChen/MyNotePad/blob/master/picture/changeBackground_２.png)
+![Alt](https://github.com/CunmingChen/MyNotePad/blob/master/picture/changeBackground_３.png)
 
 ## <br/><br/>五.闹钟提醒
 ###  1.找到菜单的list_options_menu.xml文件，添加一个搜索的item
@@ -579,7 +585,9 @@ public class AlarmActivity extends AppCompatActivity {
 
 ```
 ### <br/>效果
-
+![Alt](https://github.com/CunmingChen/MyNotePad/blob/master/picture/clock_１.png)
+![Alt](https://github.com/CunmingChen/MyNotePad/blob/master/picture/clock_２.png)
+![Alt](https://github.com/CunmingChen/MyNotePad/blob/master/picture/clock_３.png)
 
 ## <br/><br/>六.在文本中插入图片
 ### 1.在NodeEditor.java的optionmenu中添加选项     
@@ -717,3 +725,10 @@ private static final String reg="file:///storage/emulated/0/\\d+.jpg";
     }
 ```
 ### <br/>效果
+![Alt](https://github.com/CunmingChen/MyNotePad/blob/master/picture/photo_1.png)
+从相册中取图片
+![Alt](https://github.com/CunmingChen/MyNotePad/blob/master/picture/photo_2.png)
+![Alt](https://github.com/CunmingChen/MyNotePad/blob/master/picture/photo_3.png)
+从相机中取图片
+![Alt](https://github.com/CunmingChen/MyNotePad/blob/master/picture/photo_4.png)
+![Alt](https://github.com/CunmingChen/MyNotePad/blob/master/picture/photo_5.png)
